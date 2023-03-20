@@ -1,0 +1,123 @@
+Start testing: Feb 20 22:13 CST
+----------------------------------------------------------
+1/8 Testing: test_four.memcheck
+1/8 Test: test_four.memcheck
+Command: "/usr/bin/bash" "-c" "/home/zsq259/home/STLite_ACM/vector/build/four.memcheck | diff /home/zsq259/home/STLite_ACM/vector/data/four.memcheck/answer.txt -"
+Directory: /home/zsq259/home/STLite_ACM/vector/build
+"test_four.memcheck" start time: Feb 20 22:13 CST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.60 sec
+----------------------------------------------------------
+Test Passed.
+"test_four.memcheck" end time: Feb 20 22:13 CST
+"test_four.memcheck" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/8 Testing: test_four
+2/8 Test: test_four
+Command: "/usr/bin/bash" "-c" "/home/zsq259/home/STLite_ACM/vector/build/four | diff /home/zsq259/home/STLite_ACM/vector/data/four/answer.txt -"
+Directory: /home/zsq259/home/STLite_ACM/vector/build
+"test_four" start time: Feb 20 22:13 CST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.55 sec
+----------------------------------------------------------
+Test Passed.
+"test_four" end time: Feb 20 22:13 CST
+"test_four" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/8 Testing: test_one.memcheck
+3/8 Test: test_one.memcheck
+Command: "/usr/bin/bash" "-c" "/home/zsq259/home/STLite_ACM/vector/build/one.memcheck | diff /home/zsq259/home/STLite_ACM/vector/data/one.memcheck/answer.txt -"
+Directory: /home/zsq259/home/STLite_ACM/vector/build
+"test_one.memcheck" start time: Feb 20 22:13 CST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test_one.memcheck" end time: Feb 20 22:13 CST
+"test_one.memcheck" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/8 Testing: test_one
+4/8 Test: test_one
+Command: "/usr/bin/bash" "-c" "/home/zsq259/home/STLite_ACM/vector/build/one | diff /home/zsq259/home/STLite_ACM/vector/data/one/answer.txt -"
+Directory: /home/zsq259/home/STLite_ACM/vector/build
+"test_one" start time: Feb 20 22:13 CST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test_one" end time: Feb 20 22:13 CST
+"test_one" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/8 Testing: test_three.memcheck
+5/8 Test: test_three.memcheck
+Command: "/usr/bin/bash" "-c" "/home/zsq259/home/STLite_ACM/vector/build/three.memcheck | diff /home/zsq259/home/STLite_ACM/vector/data/three.memcheck/answer.txt -"
+Directory: /home/zsq259/home/STLite_ACM/vector/build
+"test_three.memcheck" start time: Feb 20 22:13 CST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test_three.memcheck" end time: Feb 20 22:13 CST
+"test_three.memcheck" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/8 Testing: test_three
+6/8 Test: test_three
+Command: "/usr/bin/bash" "-c" "/home/zsq259/home/STLite_ACM/vector/build/three | diff /home/zsq259/home/STLite_ACM/vector/data/three/answer.txt -"
+Directory: /home/zsq259/home/STLite_ACM/vector/build
+"test_three" start time: Feb 20 22:13 CST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test_three" end time: Feb 20 22:13 CST
+"test_three" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/8 Testing: test_two.memcheck
+7/8 Test: test_two.memcheck
+Command: "/usr/bin/bash" "-c" "/home/zsq259/home/STLite_ACM/vector/build/two.memcheck | diff /home/zsq259/home/STLite_ACM/vector/data/two.memcheck/answer.txt -"
+Directory: /home/zsq259/home/STLite_ACM/vector/build
+"test_two.memcheck" start time: Feb 20 22:13 CST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test_two.memcheck" end time: Feb 20 22:13 CST
+"test_two.memcheck" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/8 Testing: test_two
+8/8 Test: test_two
+Command: "/usr/bin/bash" "-c" "/home/zsq259/home/STLite_ACM/vector/build/two | diff /home/zsq259/home/STLite_ACM/vector/data/two/answer.txt -"
+Directory: /home/zsq259/home/STLite_ACM/vector/build
+"test_two" start time: Feb 20 22:13 CST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   2.90 sec
+----------------------------------------------------------
+Test Passed.
+"test_two" end time: Feb 20 22:13 CST
+"test_two" time elapsed: 00:00:02
+----------------------------------------------------------
+
+End testing: Feb 20 22:13 CST

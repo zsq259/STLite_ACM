@@ -1,0 +1,1 @@
+/usr/bin/c++  -O2 CMakeFiles/four.memcheck.dir/data/four.memcheck/code.cpp.o -o four.memcheck 
